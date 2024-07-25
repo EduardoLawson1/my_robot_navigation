@@ -1,8 +1,7 @@
+Esse código implementa o algoritmo bug0 da forma mais básica possível
+Foi desenvolvida para a matéria Tópicos em Sistemas Inteligentes para Automação.
+
 Trabalho Número 1: Robô Navegador
-
-Eduardo Lawson da Silva -140598  && João Victor Acosta - 132818
-
-Vídeo do youtube: https://youtu.be/TUnJYN1WcIk 
 
 OBS: Foi implementado passando no segundo alvo primeiro para demorar menos a execução.
 
